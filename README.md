@@ -15,11 +15,12 @@ When designing a model there are three possible roads to take; the embodiment ap
 
 # What are (my/the) perceived strengths and weaknesses that I have observed?
 
-I always thought that I am a fast learner as in the past in my previous workplace, when learning a new system or process, usually I was the first one to understanding and learn it. While studying online I have found that my weakness has been in keeping focus on my work load and time management is a huge weakness for me. 
+Initially, I thought that I was a fast learner as in the past, when learning a new system or process, usually I was the first one to understanding and learn it. While studying online I have found that my weakness has been in keeping focus on my work load and time management is a huge weakness for me. 
 
 # What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 I have found it challenging to understand how to use Github and Jupyter notebooks. Even after watching the youtube vidoes made by Juan, I am still struggling to understand the difference between the two and when I need to use one or the other. 
 
 # What would I do better next time and with what anticipated results?
+
 
 # What theory proved to be useful and why? What have I learnt from this?
