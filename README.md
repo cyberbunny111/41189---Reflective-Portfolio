@@ -3,10 +3,10 @@
 
 # What have I learnt this week?
 
-A model is a representation of a structure or a real system. Models can be used to explain data, design future models as well as communicate ideas and possibilities. Models help find patterns in data, form predictions based on data, produce new models, estimate any benefits and risks. Using models humans can compare different options, identify and rank though processes, design experiments, engineer mechanisms to make and choose better policies. 
+This week i learnt about many model thinking, which is concept that implicates that while using one model may help to understand a certain issue, using many models can help achieve an overall understading of the issue, make better predections and implement better design. A model is a representation of a structure or a real system. Models can be used to explain data, design future models as well as communicate ideas and possibilities. Models help find patterns in data, form predictions based on data, help produce new models, estimate any benefits and risks. Using models humans can compare different options, identify and rank though processes, design experiments, engineer mechanisms to make and choose better policies. 
 
 # This week I learned about:
-There are different ways of representing complex adaptive systems; through system dynamics models, agent-based models and network models. 
+There are different ways of representing complex adaptive systems; through system dynamics models, agent-based models and network models. Systems dynamics is a modeling technique that is used to understand and model complex systems. Systems dynamics is a computational model where a set of rules is assigned to be played out by agents/actors to see how they will behave on their own as well as adapt and respond to the environment. 
 
 # What do I 'now know' that I did not before?
 When designing a model there are three possible roads to take; the embodiment approach, analogy approach or the alternative reality approach. The embodiment theory is when you use your own experience to process and understand the feelings of others and it relies heavily on the physical sensation of the body to understand the experience. The analogical model uses words to compare other words that describe a certain meaning, it can also be compared to a metaphor. The alternate reality approach helps us apply real-world models without any real consequences. This gives us the ability to test and run experiments before they can be used in the real world so that there is limited harm caused.
