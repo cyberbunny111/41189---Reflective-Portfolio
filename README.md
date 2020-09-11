@@ -9,7 +9,7 @@ A model is a representation of a structure or a real system. Models can be used 
 There are different ways of representing complex adaptive systems; through system dynamics models, agent based models and network models. 
 
 # What do I 'now know' that I did not before?
-When designing a model there are three possible roads to take; the embodiment approach, analogy approach or the alternative reality approach. 
+When designing a model there are three possible roads to take; the embodiment approach, analogy approach or the alternative reality approach. The embodiment theory is when ou use your own experience to process and understand the feelings of others and it relies heavily on the physical sensatioln of the body to understand the experience.The analogocial model uses words to compare other words that describe a certain meaning , it can also be compared to a metaphor. 
 
 # What insights have I gained?
 
