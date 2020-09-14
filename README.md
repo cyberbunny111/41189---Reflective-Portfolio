@@ -26,16 +26,14 @@ Spatial Choice Models
 
 Probability, types of probality and decision tree
 
-# What are (my/the) perceived strengths and weaknesses that I have observed?
-
-
 # What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 This week I have found it challenging to study from home. I have been getting distracted easily and making excuses for myself not to do the work. I made a study calendar and have put it on my desk to help me manage my time and allocate 3 hours of study each day. I have also downloaded a timetable/homework application called 'my Homework' on my laptop to help me keep on top of my assignements.
 
 # This week I observed:
   
-Whilst learning about his week I observed myself 
+Whilst learning about his week I observed the ways that I make decisions. I feel like when I make decisions, if it relates to someone else I try to find a good medium for both involved. I would not feel good if only I got what I wanted or did something that was better for me, I prefer to always make sure the other person is happy with the outcome too. 
+
 # What would I do better next time and with what anticipated results?
 
-I submitted my Github repository quite late. I have come to realisation that 
+I submitted my Github repository quite late. I have come to realisation that making entries once a week is far better than leaving it to do later. 
 # What theory proved to be useful and why? What have I learnt from this?
