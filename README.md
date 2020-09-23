@@ -9,7 +9,7 @@
 
 # What do I 'now know' that I did not before?
 
-
+Upon reflection, it was observed that there are two types of random variables, a discreet random variable is calculated by counting e.g number of items purchased in a year. Continous random varibles on the other hand are calculated by measuring e.g a company's stock prices changing in a 52 week period. Understanding probality estimates helps us define occurence and model our world. 
 
 ## This week I learned about:
 
@@ -18,7 +18,7 @@ Aggregation - many models in social sciences indicate that 1+2=3 mindset where t
 Probability is the understanding of how likely something is to happen from a random process. Having an understanding of probability helps us understand potential outcomes and how likely those outcomes are. 
 
 # What insights have I gained?
-
+X has been shown / demonstrated / proved / found 
 
 
 
