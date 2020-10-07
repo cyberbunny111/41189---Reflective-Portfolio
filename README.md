@@ -13,47 +13,34 @@ A sytem is a part of a whole idea, if you take away a key part the system it wil
 
 ## This week I learned about:
 
-Types of Information, Technologies, behaviors, beliefs 
-
-N population – Relevant population size 
+Types of Information, Technologies, behaviors and beliefs.
 
 Riots – if the variable exceed a threshold, individuals take 1-2 actions. Each person makes the choice to join the riot e.g Air Bnb 
 
 Broadcast – spread of ideas, rumors, information through media like television, radio or internet. Number of people informed E.g Contamination in water supply 
 
-Diffusion -  
-
-Contagion -  
 
 SIR – was designed to examine the spread of diseases. Can also be applied to phenomena spread by diffusion then fade e.g books, songs, dance steps, phrases, websites, diets and exercise routines. 
 
 # What insights have I gained?
 
-X is increasingly becoming 
+The structure of a network is comprised of nodes and edges. Nodes are connected by edges and edges can be directed or not be directed. Node paths are important and indicate how far people are in an organisation. There are three ways nodes can form:
 
-Hard to differentiate between random number theory than the stock market. 
-
-Speed of the decision 
-
-Scope of the decision (fewer correct and incorrect decisions) Standard deviation (narrows when you make more decisions)  
-
-Precise (less desirable) but not accurate (accuracy is more desirable) 
-
+Random: Although being random there is a visible structure to the node networks
+Small-world: Some nodes connect to other nodes near them and then these nodes can connect to other nodes e.g clique, social network, mutual friends
+Lattice: Nodes connect to other nodes that are most connected. e.g the internet
 
 # This week I gained new insights about:
 
-An increasing number of studies have found that ...
+Systems dynamics models help show negative feedback loops and encourage the assessment of feedback. It also gives the ability to see the impact models or theories have in real life situiations or probelms and help us anticipate direct and indirect results.
 
 
 # What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
 I have found it extremely challenging to feel motivated to write these repositories.  I feel as if I am falling behind and it has been difficult to keep on track with my online discussion work, studying for all subjects and assignments. 
 
-# This week I observed:
-  
-Scientists / Researchers / Experts have always seen X as
 
 # What would I do better next time and with what anticipated results?
 
-
+I will try to see how the models I learn in class have relationships with the world around me and how I can apply the models to real life experiences.
 # What theory proved to be useful and why? What have I learnt from this?
