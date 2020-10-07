@@ -17,11 +17,13 @@ Path dependence means what the name indicates, that what happens currently depen
 
 # What insights have I gained? 
 
-This week I gained new insights about the Random walks mmodel. 
+This week I gained new insights about the Random walks model. It has a probability of 1/2 so that either the result will be one or the other for example heads or tails when flipping a coin.
+
+The Markov model computes how likely it is for something to move from one state to another without taking into consideration of its previous state. It is easier to undersand the Markov model by creating a transition matrix to show the probability of each state. I found the Markov process easy enough to understand and have decided to use it for my next assessment.
 
 # What were the challenges I have encountered/observed and how well (did I/my team) handle them? 
 
-This week I observed 
+This week I observed my team and I struggling with GitHub, we all had no idea how to use it or have previous Python experience. I found it very difficult to learn Python by myself from watching Youtube videos but I will try again next week.
 
 # What would I do better next time and with what anticipated results? 
 
