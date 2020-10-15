@@ -16,7 +16,7 @@ This is week I got some feedback from my peers about our Github Pre-submission. 
 
 # What do I 'now know' that I did not before? 
 
-Complexity science is a relativelyy new field which began in the 1980's. 
+Complexity science is a relativelyy new field which began in the 1980's. According to Allen Downey classic models tend to be based on continuous mathematics, linear systems, are deterministic and homogenous. On the other hand, complexity science is more open to linear models, includes some degree of randomness, often include heterogeneity and work with a large number of components. 
 
 
 This week I learned about
