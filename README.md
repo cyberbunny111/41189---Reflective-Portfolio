@@ -6,12 +6,20 @@
 
 # What have I learnt this week? 
 
-This is week I got some feedback from my peers about our Github Pre-submission. The feedback from them was constructive and helped me identify what was missing from our submission. The teams highlighted many positives from our work; saying that it was relevant to our current global situiation and that work clearly specified our aim and defined our scope of the Australian housing market and its effects since COVID. 
+This is week I got some feedback from my peers about our Github Pre-submission. The feedback from them was constructive and helped me identify what was missing from our submission. The teams highlighted many positives from our work; saying that it was relevant to our current global situiation and that work clearly specified our aim and defined our scope of the Australian housing market and its effects since COVID. Some of the feedback my team recieved from our peers were to add more positives to the current situiation like:
 
+-Rental reduction
+-JobKeeper & JobSeeker benefits
+-Homebuilder grant
+-People spending more time with their families due to moving back home
+-Lockdown benefits e.g home cooking, excersize, community support and new experiences
 
 # What do I 'now know' that I did not before? 
 
-# This week I learned about: 
+Complexity science is a relativelyy new field which began in the 1980's. 
+
+
+This week I learned about
 
 # What insights have I gained? 
 
