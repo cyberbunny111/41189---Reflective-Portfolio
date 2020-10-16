@@ -10,7 +10,7 @@ This week there was alot of focus on the Clonel Blotto Game, it is a model which
 
 # What do I 'now know' that I did not before? 
 
-
+In the Clonel Blotto game there is an advantage for the player with the most troops. If you are the weak player you need to add dimensions to increase your chance of winning for example if it's business, then you need to add a point of difference, if your playing a sports game, then you need to add tricks or unpredictable moves.
 
 # What insights have I gained? 
 
