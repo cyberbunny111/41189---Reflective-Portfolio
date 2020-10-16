@@ -6,20 +6,11 @@
 
 # What have I learnt this week? 
 
-This is week I got some feedback from my peers about our Github Pre-submission. The feedback from them was constructive and helped me identify what was missing from our submission. The teams highlighted many positives from our work; saying that it was relevant to our current global situiation and that work clearly specified our aim and defined our scope of the Australian housing market and its effects since COVID. Some of the feedback my team recieved from our peers were to add more positives to the current situiation like:
-
--Rental reduction
--JobKeeper & JobSeeker benefits
--Homebuilder grant
--People spending more time with their families due to moving back home
--Lockdown benefits e.g home cooking, excersize, community support and new experiences
+This week there was alot of focus on the Clonel Blotto Game, it is a model which predicts the winner based on the number of front won. The main idea of the game is that it is more beneficial to win across multiple games as opposed to focusing all your energy on winning one game. 
 
 # What do I 'now know' that I did not before? 
 
-Complexity science is a relativelyy new field which began in the 1980's. According to Allen Downey classic models tend to be based on continuous mathematics, linear systems, are deterministic and homogenous. On the other hand, complexity science is more open to linear models, includes some degree of randomness, often include heterogeneity and work with a large number of components. 
 
-
-Complex models are good for different purposes and although Schelling's model of segregation might be useful for complex social circumstances, it is not useful for prediction.
 
 # What insights have I gained? 
 
@@ -30,5 +21,7 @@ This week I gained new insights about
 This week I observed  
 
 # What would I do better next time and with what anticipated results? 
+
+Sadly, I missed the chance to participate in the game. I was doing other assessments although that is not a good excuse but next time I will submit my entry right away so I do not miss out.
 
 # What theory proved to be useful and why? What have I learnt from this? 
