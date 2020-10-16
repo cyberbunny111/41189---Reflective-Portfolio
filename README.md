@@ -19,7 +19,7 @@ This is week I got some feedback from my peers about our Github Pre-submission. 
 Complexity science is a relativelyy new field which began in the 1980's. According to Allen Downey classic models tend to be based on continuous mathematics, linear systems, are deterministic and homogenous. On the other hand, complexity science is more open to linear models, includes some degree of randomness, often include heterogeneity and work with a large number of components. 
 
 
-This week I learned about
+Complex models are good for different purposes and although Schelling's model of segregation might be useful for complex social circumstances, it is not useful for prediction.
 
 # What insights have I gained? 
 
