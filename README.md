@@ -18,10 +18,10 @@ This week I gained new insights about the Clonel Blotto game and how it is used 
 
 # What were the challenges I have encountered/observed and how well (did I/my team) handle them? 
 
-This week I observed  
+This week I observed an improvement in my ability to focus and work on my assignments. I have tried really hard to add a little bit each day and doing thiks has taken weight off my shoulders and I have been able to successfully complete my assignments on time.
 
 # What would I do better next time and with what anticipated results? 
 
 Sadly, I missed the chance to participate in the game. I was doing other assessments although that is not a good excuse but next time I will submit my entry right away so I do not miss out.
 
-# What theory proved to be useful and why? What have I learnt from this? 
+
