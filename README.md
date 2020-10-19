@@ -23,7 +23,8 @@ Complex models are good for different purposes and although Schelling's model of
 
 # What insights have I gained? 
 
-This week I gained new insights about 
+This week I gained new insights about small world experiments and how it is comprised of several experiments that was conducted by Stanley Milgram. The intension was to examine the average path lenth of social networks of people in the US. It was interesting to learn that this experiment suggested that human society is a small world type of network characterized by short path lengths. The idea was to learn about the probability that two randomly selected people would know eachother, this reminds me of Facebook and how we have suggested friends. In real life these suggest friends would be someone we know randomly however on Facebook its easy to see this due to the mutal friends function on the profiles.
+
 
 # What were the challenges I have encountered/observed and how well (did I/my team) handle them? 
 
