@@ -28,8 +28,11 @@ This week I gained new insights about small world experiments and how it is comp
 
 # What were the challenges I have encountered/observed and how well (did I/my team) handle them? 
 
-This week I observed  
+This week I found my self staying on top of my work more, we recieved great feedback from Juan about our assessment which was quite motivating and helped alot with our self esteem. 
 
 # What would I do better next time and with what anticipated results? 
 
+Next semester I will try to leave more time for myself, its hard working and studying on the same day as im often flustered. Perhaps next semester I will try to coordinate working on different days to my class days and see how this works. It all a learning process and I've tried this way this semester and have found it difficut to manage both. 
+
 # What theory proved to be useful and why? What have I learnt from this? 
+A large scale Milgram's experiment was conducted whcih involved 24,163 email chains with 18 targets around the world and the average chain was 6. The small world experiment also corroborates with Granovetters theory "the strength of weak ties" that keeps a social network together.
