@@ -10,9 +10,7 @@ Using the many model approach is valuable in implementing social, economical and
 
 # What do I 'now know' that I did not before? 
 
-Universitities such as Princeton use probabilistic models that represent applicants by grade point average and test scores when determining their likelihood of graduating. Disney for example used an agent-based model to design its theme parks and attractions. The model created a computer rendition of the theme park and simulated visitors activities so Disney could understand how different decisions may affect the functionality of the theme park. 
-
-The Australian Federal Government uses an economic model that includes income, unemployment, and health statistics to estimate the costs of changes to health care laws.
+Universitities such as Princeton use probabilistic models that represent applicants by grade point average and test scores when determining their likelihood of graduating. Disney for example used an agent-based model to design its theme parks and attractions. The model created a computer rendition of the theme park and simulated visitors activities so Disney could understand how different decisions may affect the functionality of the theme park. This is interesting because these virtual agents created with the ability to operate without the direct instructions of humans or others (so in a way they have some control over their own actions), they have the ability to communicate with other agents, they are able to percieve their environment and they exihibit goal-orientated behaviour. I have found this information to be interesting and challenging to understand as it seems as though these qualaities and behaviours these virtual agents possess as very similar to that of humans.
 
 # What insights have I gained? 
 
