@@ -22,5 +22,7 @@ This week Taylor and I are working on our part of the final assessment, we are d
 
 # What would I do better next time and with what anticipated results? 
 
+I think next time I would focus more of my energy and time in doing my weekly submissions. Hopefully, by next semester I will be able to have my classes on campus because I think it will much easier for me to concentrate in a classroom environment and I will enjoy it alot more. 
 
 # What theory proved to be useful and why? What have I learnt from this? 
+Some theory that proved to be useful is that complex systems are all around us and we interact with it everyday sometimes even unconciously. Some systems were created by nature like our brains and how they work, ecosystems and gene networks and some systems were created by humans such as the stock market, language, urban cities and political systems. 
