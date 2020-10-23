@@ -18,7 +18,9 @@ Data helps describe reality, through the use of models understanding data can be
 
 # What were the challenges I have encountered/observed and how well (did I/my team) handle them? 
 
+This week Taylor and I are working on our part of the final assessment, we are doing the Markov Model part of the assessment together. We scheduled to meet up during our normal class time at the campus. Our focus is on creating and testin g the Pythonn code for the Markov model and in addition to this I worked on analysis the similarities between the random walks model and the Markov process. We have found a couple of websites and Github reposotories relating to a Python code for the model however, a huge challenge is actually altering the code so that it aligns with our topic of COVID-19 and the Australian housing market.  
 
 # What would I do better next time and with what anticipated results? 
+
 
 # What theory proved to be useful and why? What have I learnt from this? 
